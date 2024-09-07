@@ -6,11 +6,12 @@
 **D4 TI 2G**
 
 1. Modifikasilah kode pada baris 3 di VS Code atau Editor Code favorit Anda berikut ini agar mendapatkan keluaran (output) sesuai yang diminta!
-![alt](/pertemuan1/media/soal1.png)
+
+![alt](/pertemuan2/media/soal1.png)
 
 Contoh
 
-![alt](/pertemuan1/media/soal1contoh.png)
+![alt](/pertemuan2/media/soal1contoh.png)
 
 > Jawab
 - code
@@ -23,7 +24,7 @@ void main() {
 ```
 - output
 
-![alt](/pertemuan1/media/soal1jawab.png)
+![alt](/pertemuan2/media/soal1jawab.png)
 
 2. Mengapa sangat penting untuk memahami bahasa pemrograman Dart sebelum kita menggunakan framework Flutter ? Jelaskan!
 
