@@ -3,7 +3,7 @@
 
 **2241720070**
 
-**D4 TI 2G**
+**D4 TI 3D**
 
 1. Modifikasilah kode pada baris 3 di VS Code atau Editor Code favorit Anda berikut ini agar mendapatkan keluaran (output) sesuai yang diminta!
 
